@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Light The Light",
+  "base_artist": "Midnight Grand Orchestra",
+  "createdAt": "2025-12-05T05:54:41.843673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Light The Light",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_Light_The_Light_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walk the Dog & Light the Light (Song of the Road)",
+      "artist": "Laura Nyro",
+      "has_synced": true,
+      "path": "select/02_Walk_the_Dog_&_Light_the_Light_(Song_of_the_Road)_Laura_Nyro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Light The Light",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": true,
+      "path": "select/03_Light_The_Light_Midnight_Grand_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Light the Light",
+      "artist": "The Refreshments",
+      "has_synced": true,
+      "path": "select/04_Light_the_Light_The_Refreshments.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LIGHT THE LIGHT",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/05_LIGHT_THE_LIGHT_Fire_Bomber.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LIGHT THE LIGHT",
+      "artist": "Fire Bomber American",
+      "has_synced": false,
+      "path": "select/06_LIGHT_THE_LIGHT_Fire_Bomber_American.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LIGHT THE LIGHT",
+      "artist": "福山芳樹",
+      "has_synced": false,
+      "path": "select/07_LIGHT_THE_LIGHT_福山芳樹.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Light the Light",
+      "artist": "Tim Baker",
+      "has_synced": false,
+      "path": "select/08_Light_the_Light_Tim_Baker.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "09 Light The Light",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/09_09_Light_The_Light_Fire_Bomber.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Light The Light",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/pl_01_Light_The_Light_Midnight_Grand_Orchestra.txt"
+    }
+  ]
+}
